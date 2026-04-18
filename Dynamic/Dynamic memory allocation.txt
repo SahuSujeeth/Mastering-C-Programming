@@ -1,0 +1,13 @@
+Dynamic memory allcation is Heap memory. 
+Whenever we use dynamic memory the control of the memory keeps on the user... the user can allocate the memory whenever he want and also deallcote the memory whenever he want...
+They are two types:
+1. Malloc  syntax --> void * malloc (no of bytes).
+2. Calloc  sytax --> void * calloc (n,size).
+Here the void star type,if you assign it to any type of pointer,it can be assign without any explicits....
+NOTE (malloc) : If cannot allocate memory then it returns null.
+NOTE (calloc) : If intialise the dynamically memory as zero. as like this malloc give random values..
+
+APPLICATIONS FOR DYNAMIC MEMORY ALLOCATION:
+1. It gives the full control of the HEAP memory.
+2. Useful in data structers like linked list, tree etc...
+
