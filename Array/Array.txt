@@ -1,0 +1,8 @@
+Array is the group of the data which is colection of data of same dataTypes and it is fixed size. 
+For example : arr[5] = {1,2,3,4,5} 
+About the example clearly
+ ->Here the arr is the name of the Array
+ ->Here the [5] is the size of the array and also we can find the size of the arry by this formula like size = sizeof(arr)/sizeof(arr[0])
+ here the sizeof(arr) gives the all bits of the array and which mean here 20 bits and sizeof(int) is 4 so array is memory allocated with 20bits...
+ ->Here the element is the 1,2,3,4,5 these are elements starts we can acces the elements by the indexs so the indexes are started with the 0 to n-1...
+
