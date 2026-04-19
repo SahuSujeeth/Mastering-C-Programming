@@ -39,3 +39,5 @@ int main()
         printf("Their is no space for insert an element inside the array\n");
     return 0;
 }
+// Here the time complexcity: Is the Big O(n)
+// if we insert the element at the last then it will be big O(1)
