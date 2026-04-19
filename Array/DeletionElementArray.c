@@ -43,3 +43,9 @@ int main()
     
     return 0;
 }
+// Time Complexcity:
+// --> Insert - O(n)
+// --> Search - O(n) for unsorted for sorted its O(log n) its by using binary search algorithm.
+// --> Delete - O(n)
+// --> ith element - O(1)
+// --> update ith element - O(1)
