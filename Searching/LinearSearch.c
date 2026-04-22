@@ -33,3 +33,7 @@ int main()
 
     return 0;
 }
+// Time Complexity:
+// -->worst case : O(n)->Happens when element not present in the array.
+// -->Average case : O(n)
+// -->Best Case : O(1)->Happen when the searched element present at the first.
